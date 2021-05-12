@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The history of the World Rubik's Cube and the organizers
 
 You can use the [editor on GitHub](https://github.com/rulerkcaco/World-Rubik-s-Cube-Contest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
