@@ -1,37 +1,21 @@
 ## The history of the World Rubik's Cube and the organizers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>世界魔方大赛简介</title>
 
-You can use the [editor on GitHub](https://github.com/rulerkcaco/World-Rubik-s-Cube-Contest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+<img src="0.jpg/">
+<img src="1.jpg/">
+<h1>世界魔方錦標賽，是一項由世界魔方協會認證的，世界性的最高級別魔方競速錦標賽事。自2003年起，該賽事每兩年舉辦一次，每屆比賽設立各個當時世界魔方協會認可的正式比賽項目，每個項目的勝出者將被賦予「世界冠軍」的頭銜，前三名會頒發紀念獎牌或獎盃以及相應的獎品或獎金[1]</h1>
+<p>賽事歷史
+    1982年6月5日，第一屆世界魔方錦標賽在匈牙利布達佩斯舉辦，當時僅僅只設立有三階魔方一個項目，19位來自19個不同國家的參賽選手參加了比賽。儘管當時主辦方決定在未來將繼續開辦比賽，但隨後若干年，魔方在世界範圍內的熱潮逐漸消退。2003年，魔方愛好者們在多倫多舉辦了第二屆世錦賽，這場稱得上是「第一次現代的魔方比賽」取得了巨大的成功[2]，但同時也存在很多問題，很大程度上是因為缺乏組織監管。次年，WCA正式成立，WCA認可了前兩屆比賽作為世界錦標賽的性質和比賽成績，並正式設立每兩年舉辦一次世錦賽的制度。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</p>
+<p>世界魔方大赛是由世界魔方协会举办的，世界魔方協會 (WCA) 是管理世界範圍內魔方賽事事務的組織機構。WCA最初由來自荷蘭的Ron van Bruchem 和來自美國的毛台勝創立。[1]世界魔方協會的宗旨是 「在更多的國家舉辦更多的比賽，讓更多的朋友們一起在公平公正的氛圍中享受歡樂」[2] 2007年11月20日, 他們決定將WCA註冊成為一家非營利組織。 2017年，加利福尼亞州正式接受了世界魔方協會的註冊登記。
 
-### Markdown
+    世界魔方協會由其董事會成員管理，並且分配有不同的團隊、委員會、以及有資格組織正式比賽的WCA代表們。只有當WCA代表在場認證的比賽才會被WCA認可。截止2019年7月, 已有超過127000位來自世界各地的魔方愛好者參加過了WCA賽事，成為比賽成績被記錄在案並受認可的WCA會員[3]</p>
+</body>
+</html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rulerkcaco/World-Rubik-s-Cube-Contest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
