@@ -15,7 +15,7 @@
 <img src="1.jpg"/>
 <p>World Cube Contest World Record，
     In 2009, he participated in the first official competition (New Zealand Championship) and won the championship with an average of 13.74 seconds for the third-order cube. Since 2010, a total of 121 world records have been set. On May 5, 2018, Felix set the world record for the third-order Rubik's Cube with a time of 4.22 seconds (has been broken by Du Yusheng 3.47), and recently set his own record in Auckland summer 2020 to reach a single 4.16 seconds.</p>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/DG-Fp_ZvyGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 
 
