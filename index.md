@@ -12,7 +12,7 @@
 <p>The World Rubik's Cube Competition is organized by the World Rubik's Cube Association. The World Rubik's Cube Association (WCA) is an organization that manages the affairs of Rubik's Cube events worldwide. WCA was originally founded by Ron van Bruchem from the Netherlands and Mao Taisheng from the United States. [1] The mission of the World Rubik's Cube Association is "Hold more competitions in more countries, so that more friends can have fun in a fair and just atmosphere." [2] On November 20, 2007, they decided to WCA is registered as a non-profit organization. In 2017, California officially accepted the registration of the World Rubik's Cube Association.
 
     The World Rubik's Cube Association is managed by its board of directors, and has different teams, committees, and WCA representatives who are qualified to organize official competitions. Only when a WCA representative is present at the certification competition will it be recognized by the WCA. As of July 2019, more than 127,000 Rubik's Cube enthusiasts from all over the world have participated in the WCA event and have become WCA members whose results have been recorded and recognized</p>
-<p>World Cube Contest World Record
+<p>World Cube Contest World Record，
     In 2009, he participated in the first official competition (New Zealand Championship) and won the championship with an average of 13.74 seconds for the third-order cube. Since 2010, a total of 121 world records have been set. On May 5, 2018, Felix set the world record for the third-order Rubik's Cube with a time of 4.22 seconds (has been broken by Du Yusheng 3.47), and recently set his own record in Auckland summer 2020 to reach a single 4.16 seconds.</p>
 <img src="1.jpg/">
 </body>
